@@ -1,3 +1,27 @@
+# Projeto Final — Bloco 02 (Backend)
+
+API backend desenvolvida com **NestJS** como projeto final de disciplina acadêmica.
+
+## Objetivo
+Aplicar de forma prática os conceitos estudados ao longo do bloco, com foco em **APIs REST**, organização em camadas e backend moderno.
+
+## Tecnologias
+- NestJS
+- TypeScript
+- Node.js
+- Banco de dados relacional
+- REST API
+
+## Funcionalidades
+- Operações CRUD
+- Integração com banco de dados
+- Estrutura modular (controllers, services, modules)
+
+## Observações
+Projeto acadêmico com foco em consolidação de conceitos de backend utilizando NestJS.
+
+---
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
