@@ -1,6 +1,6 @@
 # Projeto Final — Bloco 02 (Backend)
 
-API backend desenvolvida com **NestJS** como projeto final de disciplina acadêmica.
+API backend desenvolvida com **NestJS** como projeto final do bloco 2 do programa Generation Javascript - Turma 10.
 
 ## Objetivo
 Aplicar de forma prática os conceitos estudados ao longo do bloco, com foco em **APIs REST**, organização em camadas e backend moderno.
